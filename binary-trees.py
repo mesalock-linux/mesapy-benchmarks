@@ -5,8 +5,6 @@
 # contributed by Antoine Pitrou
 # modified by Dominique Wahli and Daniel Nanz
 
-import sys
-
 def make_tree(i, d):
 
     if d > 0:

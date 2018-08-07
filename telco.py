@@ -1,4 +1,3 @@
-#-*- coding: UTF-8 -*-
 """ Telco Benchmark for measuring the performance of decimal calculations
 
 http://www2.hursley.ibm.com/decimal/telco.html
@@ -17,7 +16,7 @@ The total price, t, is converted to a string, s.
 
 from struct import unpack
 from decimal import *
-import sys, os
+import os
 def rel_path(path):
     return os.path.join(os.path.dirname(__file__), path)
 

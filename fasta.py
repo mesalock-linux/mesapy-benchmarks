@@ -5,7 +5,7 @@
 # modified by Ian Osgood
 # modified again by Heinrich Acker
 
-import sys, bisect
+import bisect
 
 alu = (
    'GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGG'

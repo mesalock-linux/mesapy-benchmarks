@@ -1,6 +1,5 @@
 # From: https://mail.python.org/pipermail/pypy-dev/2014-August/012695.html
 
-
 L = 10
 
 xrows = range(L)
