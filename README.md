@@ -1,0 +1,15 @@
+# Benchmarks
+
+Benchmark scripts for MesaPy.
+
+Run benchmarks:
+
+```
+$ ./run.sh $PYTHON
+$ ./run.sh /usr/bin/pypy
+$ ./run.sh /usr/bin/python2.7
+```
+
+The benchmark scripts are modified from
+  - PyPy's benchmarks: https://bitbucket.org/pypy/benchmarks/src
+  - The Computer Language Benchmarks Game: https://benchmarksgame-team.pages.debian.net/benchmarksgame/
