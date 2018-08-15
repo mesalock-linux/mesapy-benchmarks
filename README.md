@@ -5,9 +5,9 @@ Benchmark scripts for MesaPy.
 Run benchmarks:
 
 ```
-$ ./run.sh $PYTHON
-$ ./run.sh /usr/bin/pypy
-$ ./run.sh /usr/bin/python2.7
+$ ./run.sh $PYTHON *.py
+$ ./run.sh /usr/bin/pypy binary-trees.py
+$ ./run.sh /usr/bin/python2.7 fib.py
 ```
 
 The benchmark scripts are modified from
